@@ -13,6 +13,13 @@ pnpm dev
 # or
 bun dev
 ```
+#.env file
+```bash
+AUTH_SECRET=
+AUTH_URL=
+GITHUB_ID=
+GITHUB_SECRET=
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
